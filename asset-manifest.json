@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React_Clock/static/css/main.5bcdfc4d.chunk.css",
+    "main.js": "/React_Clock/static/js/main.d9847dff.chunk.js",
+    "main.js.map": "/React_Clock/static/js/main.d9847dff.chunk.js.map",
+    "runtime-main.js": "/React_Clock/static/js/runtime-main.13b33f18.js",
+    "runtime-main.js.map": "/React_Clock/static/js/runtime-main.13b33f18.js.map",
+    "static/js/2.ee30f5f9.chunk.js": "/React_Clock/static/js/2.ee30f5f9.chunk.js",
+    "static/js/2.ee30f5f9.chunk.js.map": "/React_Clock/static/js/2.ee30f5f9.chunk.js.map",
+    "index.html": "/React_Clock/index.html",
+    "static/css/main.5bcdfc4d.chunk.css.map": "/React_Clock/static/css/main.5bcdfc4d.chunk.css.map",
+    "static/js/2.ee30f5f9.chunk.js.LICENSE.txt": "/React_Clock/static/js/2.ee30f5f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13b33f18.js",
+    "static/js/2.ee30f5f9.chunk.js",
+    "static/css/main.5bcdfc4d.chunk.css",
+    "static/js/main.d9847dff.chunk.js"
+  ]
+}
